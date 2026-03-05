@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "plt4_3",
+    "module_label": "PLT.4.3 - Event Logging",
+    "module_title": "Event Logging",
+    "module_slug": "event_logging",
+    "app_code": "plt4",
+    "app_label": "PLT 4 - Integration Bus / ESB",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_code": "plt4_1",
+    "module_label": "PLT.4.1 - Message Routing",
+    "module_title": "Message Routing",
+    "module_slug": "message_routing",
+    "app_code": "plt4",
+    "app_label": "PLT 4 - Integration Bus / ESB",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  },
+  {
+    "module_code": "plt4_2",
+    "module_label": "PLT.4.2 - Transformation & Mapping",
+    "module_title": "Transformation & Mapping",
+    "module_slug": "transformation_and_mapping",
+    "app_code": "plt4",
+    "app_label": "PLT 4 - Integration Bus / ESB",
+    "bundle_code": "plt",
+    "source_md_path": "doc/rnd/plugs/plt/plt1.md"
+  }
+]
